@@ -32,4 +32,7 @@ There is also an additional function/task for downloading the file for full auto
 Currently noticed some issue with the second function when running the process due to issue with PC. Needs to get back to it. 
 If there is an issue during the process of airflow pipeline a solution might be to change Java version to 17 and try to adapt different versions of pyspark to it. 
 version downloads for docker can be found here -https://download.oracle.com/java/23/latest/jdk-23_linux-x64_bin.tar.gz
-  
+
+References:
+russian_houses.csv link - https://disk.yandex.ru/d/pilqVLKqwdUOxg
+small.csv link - https://disk.yandex.ru/d/5MjUOaf08kUQJA
