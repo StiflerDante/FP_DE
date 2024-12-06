@@ -36,3 +36,5 @@ version downloads for docker can be found here -https://download.oracle.com/java
 References:
 russian_houses.csv link - https://disk.yandex.ru/d/pilqVLKqwdUOxg
 small.csv link - https://disk.yandex.ru/d/5MjUOaf08kUQJA
+
+project task - https://stepik.org/lesson/893204/step/3?unit=898147
